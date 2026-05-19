@@ -55,7 +55,11 @@ Additionally, applying the models for sorting between recyclable and non-recycla
 
 ## The Website
 
-The website through which this process is done is located at [https://naveenstewart.pythonanywhere.com/](https://naveenstewart.pythonanywhere.com/)
+The website through which this process is done is located at [https://naveenstewart.pythonanywhere.com/](https://naveenstewart.pythonanywhere.com/). Below is a preview of how the mapping software is used for individual tracking:
+
+<p align="center">
+  <img src="website.png" alt="Image">
+</p>
 
 
 

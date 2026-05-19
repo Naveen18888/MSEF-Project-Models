@@ -17,9 +17,9 @@ The design process employed over 25 respective datasets forming over 56,000 coll
 
 The following 3 inference outputs show successful model predictions on input images.
 
-![Image 1](Image%201.png)
-![Image 2](Image%202.png)
 <p align="center">
+  <img src="Image%201.png" alt="Image 1" />
+  <img src="Image%202.png" alt="Image 2" />
   <img src="Image%203.png" alt="Image 3" />
 </p>
 
@@ -29,6 +29,12 @@ The current software is being implemented into a website through which users hav
 
 The process works as follows:
 
+<ol>
+  <li>Users are able to upload images of litter regardless of the number or types of litter within it via the website.</li>
+  <li>The images are saved in a database.</li>
+  <li>A CPU or GPU processes the images and applies the model inferences to them, noting each instance of a litter product within the image and what product it is.</li>
+  <li>The predictions are provided back to the database and made publicly available, highlighting both the images were taken, the images themselves and the litter products within them.</li>
+</ol>
 
 
 

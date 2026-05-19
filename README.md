@@ -37,4 +37,22 @@ The process works as follows:
 </ol>
 
 
+### Why the Data Matters
 
+For informing both communities themselves and larger scale trends in environmental decisionmaking, data on the types and locations of litter products is crucial. Local governments as well as organizers of cleanup initiatives are able to use this data in determining which regions most commonly have the highest number of litter products, therefore improving the accuracy of the information known about the litter densities and the issue more generally.
+
+### Why Deep Learning Models are Used
+
+In crowdmapping, or the process of recording the instances of a certain occurrence collected by a group of potentially non-researchers, it is essential to be able to confirm such uploads in aiding with the credibility of the system. If users had to both take images and manually count the instances of products within them, this process would lead to a less efficient system which discourages user upload because of the increased amount of work required for a single upload. By promoting a system that automates the annotation process, this issue is largely resolved.
+
+The main reason for automation is that the bottleneck in crowdmapping for litter is not the images themselves, but the manual need for classifying and counting the instances of litter within an image; our system eliminates this issue by using AI for the image analysis process instead.
+
+### Further Applications
+
+While the crowdmapping method is effective, by employing other applications, the value of the system increases significantly. For example, by gaining visual surveys of larger areas using UAV based images or drones, the models can be applied on a larger scale for density tracking with little manual involvement.
+
+Additionally, applying the models for sorting between recyclable and non-recyclable products is a further application where automated predictions in high-speed sorting tasks is similarly effective to other applications.
+
+## The Website
+
+The website through which this process is done is located at [https://naveenstewart.pythonanywhere.com/](https://naveenstewart.pythonanywhere.com/)

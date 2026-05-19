@@ -82,6 +82,6 @@ The results show a more than double (factor of 2.1724) effectiveness of the soft
 
 This repository contains the formalized paper on the results of the training process along with commentary on accuracy differences between the proposed instance segmentation models and baselines.
 
-Additionally, there are the models themselves included in the repository along with certain python scripts relevant to the project development.
+Additionally, there are the models themselves included in the repository.
 
 The models are available for use in pretraining further models along with directly applying to potential litter systems. We hope that the broader environmental management research community uses them wherever applicable.

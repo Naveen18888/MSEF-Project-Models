@@ -19,6 +19,8 @@ The following 3 inference outputs show successful model predictions on input ima
 
 ![Image 1](Image%201.png)
 ![Image 2](Image%202.png)
-![Image 3](Image%203.png)
+<p align="center">
+  <img src="Image%203.png" alt="Image 3" />
+</p>
 
 ## Existing and Future Applications

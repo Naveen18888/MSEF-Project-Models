@@ -24,3 +24,11 @@ The following 3 inference outputs show successful model predictions on input ima
 </p>
 
 ## Existing and Future Applications
+
+The current software is being implemented into a website through which users have access to a full map of where litter is located globally as well as a separate feature to uploading images.
+
+The process works as follows:
+
+
+
+

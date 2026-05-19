@@ -18,7 +18,7 @@ The design process employed over 25 respective datasets forming over 56,000 coll
 The following 3 inference outputs show successful model predictions on input images.
 
 ![Image 1](Image%201.png)
-![Image 2](image.png)
-![Image 3](image.png)
+![Image 2](Image%202.png)
+![Image 3](Image%203.png)
 
 ## Existing and Future Applications

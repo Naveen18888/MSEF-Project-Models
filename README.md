@@ -18,9 +18,9 @@ The design process employed over 25 respective datasets forming over 56,000 coll
 The following 3 inference outputs show successful model predictions on input images.
 
 <p align="center">
-  <img src="Image%201.png" alt="Image 1" />
-  <img src="Image%202.png" alt="Image 2" />
-  <img src="Image%203.png" alt="Image 3" />
+  <img src="Images/Image%201.png" alt="Image 1" />
+  <img src="Images/Image%202.png" alt="Image 2" />
+  <img src="Images/Image%203.png" alt="Image 3" />
 </p>
 
 ## Existing and Future Applications
@@ -58,7 +58,7 @@ Additionally, applying the models for sorting between recyclable and non-recycla
 The website through which this process is done is located at [https://naveenstewart.pythonanywhere.com/](https://naveenstewart.pythonanywhere.com/). Below is a preview of how the mapping software is used for individual tracking:
 
 <p align="center">
-  <img src="website.png" alt="Image">
+  <img src="Images/website.png" alt="Image">
 </p>
 
 

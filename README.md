@@ -56,3 +56,28 @@ Additionally, applying the models for sorting between recyclable and non-recycla
 ## The Website
 
 The website through which this process is done is located at [https://naveenstewart.pythonanywhere.com/](https://naveenstewart.pythonanywhere.com/)
+
+
+
+## Proven Effectiveness
+
+On a local scale (though the software can be used globally), this technique of crowdmapping has already shown its effectiveness based on audit data in a local cleanup event. Centered in the town of North Reading, MA, USA a proposed usage of the system during a cleanup event showed an approximate 2.2 times increase in the number of per volunteer litter items collected. In the most recent cleanup audit, the mapping system had roughly 700 instances of litter items mapped over a 2 month period before the cleanup. The resulting statistics were as follows:
+
+Compared to 3 prior cleanups, the effectiveness of the proposed system was demonstrated under controlled external conditions. These prior events happened in May 2024, October 2024 and October 2025. Based on the application of the software across various object classes, the following are notable statistics derived from the audit data:
+
+<ol>
+<li>For the litter products directly mapped by the software: Plastic Lids, Plastic Bottles, Cans, Straws and Plastic Cups had 3.1272, 1.9428, 1.6526, 1.9531 and 2.1863 respectively times more products per active volunteer collected at this event compared to the average in the 3 previous ones. </li>
+<li>For the litter item of Mini Alcohol Bottles which were not affected by the software and not directly mapped, this value per volunteer decreased below the average from previous audits with a 0.9336 per volunteer items collected ratio (representing a decrease). </li>
+<li>For the object classes affected by the software which were mapped prior to the event using automated AI-based classification, the average increase factor in per volunteer items collected was 2.1724. </li>
+<li>Despite having only roughly 40% of the total volunteers during this event, by employing the software for coordinated locating and collection of litter products, the event was able to collect roughly as many items as in the 2 previous events. </li>
+</ol>
+The results show a more than double (factor of 2.1724) effectiveness of the software, as validated by the control object class which was not mapped which decreased in the amount collected. The results of this event validate the usage of the software and imply possible further use on larger scale.
+
+
+#Takeaways, and what this Repository Offers
+
+This repository contains the formalized paper on the results of the training process along with commentary on accuracy differences between the proposed instance segmentation models and baselines.
+
+Additionally, there are the models themselves included in the repository along with certain python scripts relevant to the project development.
+
+The models are available for use in pretraining further models along with directly applying to potential litter systems. We hope that the broader environmental management research community uses them wherever applicable.
